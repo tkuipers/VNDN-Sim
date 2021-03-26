@@ -1,0 +1,10 @@
+#ifndef DIRECTORY_TEST_WIRELESSNODE_H
+#define DIRECTORY_TEST_WIRELESSNODE_H
+
+
+class WirelessNode {
+    private:
+};
+
+
+#endif //DIRECTORY_TEST_WIRELESSNODE_H
